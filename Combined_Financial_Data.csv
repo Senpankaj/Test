@@ -1,0 +1,103 @@
+Category,Amount,Source,Share
+Pension,239612.0,Expenditure Major Items,
+Defence,454773.0,Expenditure Major Items,
+Fertiliser,164000.0,Expenditure Major Items,
+Food,205250.0,Expenditure Major Items,
+Petroleum,11925.0,Expenditure Major Items,
+Agriculture and Allied,146819.0,Expenditure Major Items,
+Commerce and Industry,45958.0,Expenditure Major Items,
+Development of North East,5900.0,Expenditure Major Items,
+Education#,124638.0,Expenditure Major Items,
+Energy,76302.0,Expenditure Major Items,
+External Affairs,22155.0,Expenditure Major Items,
+Finance,87642.0,Expenditure Major Items,
+Health,90171.0,Expenditure Major Items,
+Home Affairs,139328.0,Expenditure Major Items,
+Interest,1190440.0,Expenditure Major Items,
+IT and Telecom,115752.0,Expenditure Major Items,
+Others#,123136.0,Expenditure Major Items,
+Planning and Statistics,6291.0,Expenditure Major Items,
+Rural Development#,265808.0,Expenditure Major Items,
+Scientific Departments,32169.0,Expenditure Major Items,
+Social Welfare,56501.0,Expenditure Major Items,
+Tax Administration@,203297.0,Expenditure Major Items,
+GST Compensation Fund,150000.0,Expenditure Major Items,
+Transfer to States,286787.0,Expenditure Major Items,
+Transport*,544039.0,Expenditure Major Items,
+Union Territories,63541.0,Expenditure Major Items,
+Urban Development,77524.0,Expenditure Major Items,
+Net additional resources,-13990.0,Expenditure Major Items,
+Grand Total,4765768.0,Expenditure Major Items,
+Gross Tax Revenue,3830796.0,Receipts,
+a. Corporation Tax,1042830.0,Receipts,
+b. Taxes on Income,1156000.0,Receipts,
+d. Customs,231310.0,Receipts,
+e. Union Excise Duties,318780.0,Receipts,
+f. Service Tax,100.0,Receipts,
+g. GST,1067650.0,Receipts,
+-CGST,917650.0,Receipts,
+-GST Compensation Cess,150000.0,Receipts,
+h. Taxes of Union Territories,9426.0,Receipts,
+i. Other Taxes,4700.0,Receipts,
+Less -NCCD - transferred to the,9440.0,Receipts,
+Less - State's share,1219783.0,Receipts,
+1a Centre's Net Tax Revenue,2601574.0,Receipts,
+2. Non-Tax Revenue,399701.0,Receipts,
+Interest receipts,33107.0,Receipts,
+Dividends and Profits,150000.0,Receipts,
+External Grants,1044.0,Receipts,
+Other Non Tax Revenue,212640.0,Receipts,
+Receipts of Union Territories,2910.0,Receipts,
+Total- Revenue Receipts (1a + 2),3001275.0,Receipts,
+A. Non-debt Receipts@,79000.0,Receipts,
+B. Debt Receipts*,1681944.0,Receipts,
+Total Capital Receipts (A+B),1760944.0,Receipts,
+4. Draw-Down of Cash Balance,3549.0,Receipts,
+Total Receipts (1a+2+3),4762219.0,Receipts,
+Source,,Rupee Comes From,Share (%)
+Corporation-tax,,Rupee Comes From,17
+Income-tax,,Rupee Comes From,19
+Borrowings & Other liabilities,,Rupee Comes From,28
+Non-debt Capital receipts,,Rupee Comes From,1
+Non-tax receipts,,Rupee Comes From,7
+Customs,,Rupee Comes From,4
+Union Excise Duties,,Rupee Comes From,5
+Goods & Service Tax & Other taxes,,Rupee Comes From,18
+Source,,Rupee Goes To,Share (%)
+Centrally Sponsored Scheme,,Rupee Goes To,8
+Central Sector Scheme (excluding Capital Outlay on Defence and Subsidy),,Rupee Goes To,16
+Interest Payments,,Rupee Goes To,20
+Defence,,Rupee Goes To,8
+Subsidies,,Rupee Goes To,6
+Finance Commission & Other Transfers,,Rupee Goes To,8
+States' Share of Taxes and Duties,,Rupee Goes To,20
+Pensions,,Rupee Goes To,4
+Other Expenditure,,Rupee Goes To,9
+1. Revenue Receipts,3001275,Budget at a Glance,
+2. Tax Revenue (Net to Centre)¹,2601574,Budget at a Glance,
+3. Non Tax Revenue,399701,Budget at a Glance,
+4. Capital Receipts,1764494,Budget at a Glance,
+5. Recovery of Loans,29000,Budget at a Glance,
+6. Other Receipts,50000,Budget at a Glance,
+7. Borrowings and Other Liabilities,1685494,Budget at a Glance,
+8. Total Receipts (1+4),4765768,Budget at a Glance,
+9. Total Expenditure (10+13),4765768,Budget at a Glance,
+10. On Revenue Account of which,3654657,Budget at a Glance,
+11. Interest Payments,1190440,Budget at a Glance,
+12. Grants in Aid for creation of Capital Account,385582,Budget at a Glance,
+13. On Capital Account,1111111,Budget at a Glance,
+14. Effective Capital Expenditure (12+13),1496693,Budget at a Glance,
+15. Revenue Deficit (10-1),653383,Budget at a Glance,
+16. Effective Revenue Deficit,267801,Budget at a Glance,
+(15-12),(0.8),Budget at a Glance,
+17. Fiscal Deficit,1685494,Budget at a Glance,
+[9-(1+5+6)],(5.1),Budget at a Glance,
+18. Primary Deficit (17-11),495054,Budget at a Glance,
+I Establishment Expenditure,768221.0,Expenditure GOI,
+II Central Sector,1494296.0,Expenditure GOI,
+III Other Central Sector,1518830.0,Expenditure GOI,
+of which Interest Payments,1190440.0,Expenditure GOI,
+IV Centrally Sponsored Schemes,501788.0,Expenditure GOI,
+V Finance Commission Grants,132378.0,Expenditure GOI,
+VI Other Grants/Loans/Transfers,350255.0,Expenditure GOI,
+Grand Total,4765768.0,Expenditure GOI,
